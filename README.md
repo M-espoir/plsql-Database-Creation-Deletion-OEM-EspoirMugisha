@@ -1,2 +1,2 @@
-# plsql-Database-Creation-Deletion-OEM-EspoirMugisha
-PL SQL assignment ll
+# plsql-assignment ll-EspoirMugisha
+#Database,Creation,Deletion,OEM
