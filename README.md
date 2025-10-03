@@ -6,7 +6,7 @@
 
 1. Overview of Tasks
 
-Task 1: Created new PDB Mu_pdb_2024101 with user mugisha_plsqlauca_27824.
+Task 1: Created new PDB Mu_pdb_27824 with user mugisha_plsqlauca_27824.
 ![Image](https://github.com/user-attachments/assets/c26c2b3f-e4de-4a13-8168-909cb5373d22)
 
 
