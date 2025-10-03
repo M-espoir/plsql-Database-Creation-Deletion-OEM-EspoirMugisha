@@ -1,11 +1,7 @@
-# plsql-assignment ll-EspoirMugisha
-Database,Creation,Deletion,OEM
-
-Title: Oracle PDB Management Report
-
-Name: Mugisha Espoir
-
-Student ID: 27824
+#Database,Creation,Deletion,OEM  
+**Course**: Database Development with PL/SQL (INSY 8311)  
+**Instructor**: Eric Maniraguha  
+**Student**: Mugisha Espoir 27824 
 
 
 1. Overview of Tasks
