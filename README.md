@@ -2,6 +2,7 @@
 **Course**: Database Development with PL/SQL (INSY 8311)  
 **Instructor**: Eric Maniraguha  
 **Student**: Mugisha Espoir 27824 
+**Group: C**
 
 
 1. Overview of Tasks
