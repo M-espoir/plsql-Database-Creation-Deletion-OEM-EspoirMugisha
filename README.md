@@ -46,6 +46,7 @@ In this task, Oracle Enterprise Manager (OEM) was configured to monitor and mana
 The dashboard also displayed the username espoir_plsqlauca_27824, ensuring that the work was completed under the correct account. OEM provided an intuitive graphical interface for monitoring database status, managing PDBs, and validating the success of previous tasks without relying solely on SQL commands.
 
 This step confirmed that both the system configuration and the administrative account were functioning as expected.
+![Image](https://github.com/user-attachments/assets/a28aad6a-4c75-4d51-b705-18febc33af19)
 ![Image](https://github.com/user-attachments/assets/b75f2ba7-17fe-4b0c-b091-1969404f0af2)
 ![Image](https://github.com/user-attachments/assets/99c96f33-e9e5-4525-9c28-7a155e710b77)
 
