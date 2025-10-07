@@ -17,7 +17,7 @@ In this task, a new Pluggable Database (PDB) was created inside the Oracle multi
 Creating the PDB ensured that the work is carried out in a secure and isolated environment without affecting other databases in the container. The dedicated user account provides accountability and controlled access, which is important for proper database management.
 
 The screenshot of this step shows the SQL command used to create the PDB and user, confirming that the database was successfully created and made ready for use.
-![Image](https://github.com/user-attachments/assets/4620e92f-744c-4e31-b7b5-e0cc9f8673d2)
+![Image](https://github.com/user-attachments/assets/fcaebc74-224f-4dd2-9f5e-d8c1bf1f2198)
 
 This proves that the new PDB (es_pdb_27824) was created successfully with the specified admin username.
 
